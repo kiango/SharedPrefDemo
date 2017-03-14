@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SharedPrefDemo</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonLoad">Load</string>
+    <string name="edittextBiz">your business</string>
+    <string name="edittextName">enter name</string>
+    <string name="change_color">change color</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="PersonName">Person Name</string>
+    <string name="Business">Business</string>
+    <string name="person_name">Person Name</string>
+    <string name="business">Business</string>
+    <string name="remove">removeBiz</string>
+    <string name="clear">clear</string>
+    <string name="load">load</string>
+</resources>
